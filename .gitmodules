@@ -1,0 +1,12 @@
+[submodule "pg-tour/themes/minimal"]
+	path = pg-tour/themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "pg-tour/themes/hugo-theme-hello-friend-ng"]
+	path = pg-tour/themes/hugo-theme-hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "pg-tour/themes/Vno-Hugo"]
+	path = pg-tour/themes/Vno-Hugo
+	url = https://github.com/xslingcn/Vno-Hugo.git
+[submodule "pg-tour/themes/harbor"]
+	path = pg-tour/themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
